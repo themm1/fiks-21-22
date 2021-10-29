@@ -1,0 +1,99 @@
+pujde to 2
+ajajaj
+pujde to 0
+pujde to 3
+pujde to 2
+pujde to 1
+pujde to 1
+ajajaj
+pujde to 3
+pujde to 0
+pujde to 2
+pujde to 1
+pujde to 2 1
+pujde to 2 1
+pujde to 2
+ajajaj
+pujde to 2
+pujde to 2
+pujde to 2
+pujde to 0
+pujde to 2
+pujde to 0 2
+pujde to 1
+pujde to 1
+pujde to 3 1 2
+pujde to 5
+pujde to 2 3
+ajajaj
+pujde to 1
+pujde to 2
+ajajaj
+pujde to 7 2
+ajajaj
+pujde to 8
+pujde to 4 1
+pujde to 4 6 1 2 5
+pujde to 3
+pujde to 5
+pujde to 7
+ajajaj
+pujde to 3 0
+pujde to 3 4
+pujde to 6 1
+pujde to 1 0
+pujde to 2
+pujde to 6
+pujde to 3 0 4 5 2
+pujde to 6
+pujde to 8
+pujde to 4
+ajajaj
+pujde to 14
+pujde to 29
+pujde to 25
+pujde to 5 1 18 28 7 21 4 22 24 30 27 10 6 15 16 8 12 13 17 23
+pujde to 12 0
+ajajaj
+ajajaj
+ajajaj
+pujde to 15
+ajajaj
+ajajaj
+pujde to 4 9
+ajajaj
+pujde to 13 14 0 5
+pujde to 13 22 5 7 9 18 1 16 3 6 20 8
+pujde to 1
+pujde to 16
+pujde to 16
+pujde to 4 20 9 1 2 3
+pujde to 13 2
+pujde to 20
+ajajaj
+ajajaj
+pujde to 18 9
+ajajaj
+pujde to 2 14 34 33 27 8 16 17 4 23 25 18 10 6 38 36 37 28 12 19 5 9 0
+ajajaj
+pujde to 5 9 4 2 19 28
+pujde to 6 4
+pujde to 12 27 0 23 32 37 60 65 29 52 42 61 45 62 21 71 44
+pujde to 45
+ajajaj
+pujde to 10 66 13 71 68 0 91 7 67 33 98 22 110 23 74 1 12 16 45 17 51 85 6 5 114 35 42 108 82 94
+ajajaj
+ajajaj
+pujde to 26 97 21 78
+ajajaj
+pujde to 29 35 43 46 23 36 11 20 1
+pujde to 7
+pujde to 170 79 32 102 84 4 137 158 165 82 46 88 179 195 118 113 16 45 96 175 29 136 41 14
+ajajaj
+ajajaj
+ajajaj
+pujde to 14 126 223 307 171 52 266 134 264 150 175 222 17 249 104 162 205 292 293 149 15 68 106 139 278 108 284 32 285 80 201 45 110 35 217 61 112 21 28 302 169 153 145 189 77 160
+pujde to 126 1 174 62 94 151 24 39 182 36 150 175 7 156 162 199 202 130 144 173 114 26 65 127 117 189 51 178 33 101 116 168 203 158 121 197 166 13 87 70 152 83 157 181 25 40 149 148 17 79 45 61 200 4 110 204 22 76 57 21 86 100 155 15 52 14 153 119 29 92 191 54 159 133 9 179 129 38 19 32 165 81 95 196 125 183 69 43 180 161 44 75 190 64 135 27 88 170 6 112 56 91 164 160 123 171 84 80 73 71 167 194 198 120 115 23 60 42 195 48 47 141 187 172 11 139 138 72 53 37 142 63 111 176 107 147 128 140 193 10 146 169 55 50 109 89 74 30 99 66 28 78 163 185 137 8 192 67 97 113 46 90 105 188 131
+ajajaj
+pujde to 253 142 241 194 180 75 181 78 249 326 316 133 161 262 220 179 21 203 210 130 82 213 46 147 35 331 59 320 111 159 162 343 293 17 112 282 269 183
+ajajaj
