@@ -10,3 +10,8 @@
 - ### Delnici - sfinx (10/10)
 - ### Klece - Zamysli se
 - ### Okruhy - Rozmysli, popis a naprogramuj
+
+## Round 3
+- ### Penkavky - sfinx (10/10)
+- ### Sloni - sfinx (10/10)
+- ### Ryby - Rozmysli, popis a naprogramuj
