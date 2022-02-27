@@ -62,7 +62,7 @@
         <tr>
             <td> <a href=https://github.com/themm1/FIKS/tree/master/round_3/ryby>Ryby</td>
             <td>Code & Description</td>
-            <td>?</td>
+            <td>7.5</td>
         </tr>
     </tbody>
     <tbody>
@@ -81,6 +81,24 @@
             <td> <a href=https://github.com/themm1/FIKS/tree/master/round_4/urad>Urad</td>
             <td>Output only</td>
             <td>10</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td rowspan=3> <a href=https://github.com/themm1/FIKS/tree/master/round_5>Round 5</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/round_5/kamery>Kamery</td>
+            <td>Description only</td>
+            <td>?</td>
+        </tr>
+        <tr>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/round_5/prochazka>Prochazka</td>
+            <td>Output only</td>
+            <td>10</td>
+        </tr>
+        <tr>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/round_5/vchod>Vchod</td>
+            <td>Output only</td>
+            <td>?</td>
         </tr>
     </tbody>
 </table>
