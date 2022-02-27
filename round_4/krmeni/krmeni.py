@@ -89,4 +89,4 @@ class Graph:
 
 
 if __name__ == "__main__":
-    main("./round_4/krmeni/input.txt", "./round_4/krmeni/output.txt")
+    main("./round_4/krmeni/io_example/input.txt", "./round_4/krmeni/output.txt")
