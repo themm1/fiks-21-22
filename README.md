@@ -1,5 +1,16 @@
 # FIKS 2021/2022
+FIKS is a programming competition focused on algorithms organized by [FIT CVUT](https://fit.cvut.cz). The best contestants (over 75 points) are guaranteed to be accepted to ČVUT FIT without having to do entry exams.
+
+ There are 3 different tasks types:
+ - Output only - automatically evaluated tasks, input and output are handed in a text file, time to upload output is usually under 5 minutes after generating input
+ - Code & Description - manually evaluated tasks with code and desctription, code and description are handed, input and output are given in standard form (command line)
+ - Description only - manually evaluated tasks, that are purely theoretical and only description is handed
+
+
+  Here are my solutions of the 8th (2021/2022) season.
+
 [https://fiks.fit.cvut.cz](https://fiks.fit.cvut.cz)
+
 
 
 <table>
@@ -98,7 +109,7 @@
         <tr>
             <td> <a href=https://github.com/themm1/FIKS/tree/master/round_5/vchod>Vchod</td>
             <td>Output only</td>
-            <td>?</td>
+            <td>10</td>
         </tr>
     </tbody>
 </table>
