@@ -80,8 +80,10 @@ void writeOutputFile(string filePath, int outputArrLength) {
 }
 
 int main() {
-    int inputArrLength = populateInputArr("./round_1/pozemky/input.txt");
+    string inputFile = "./round_1/pozemky/io_example/input.txt";
+    string outputFile = "./round_1/pozemky/output";
+    int inputArrLength = populateInputArr(inputFile);
     int outputArrLength = populateOutputArr(inputArrLength);
-    writeOutputFile("./round_1/pozemky/output", outputArrLength);
+    writeOutputFile(outputFile, outputArrLength);
     return 0;
 }

@@ -7,12 +7,10 @@
 # 75000 to ~150, so it doesnt make significant difference in practise.
 
 import math
-import time
 from bintrees import AVLTree
 
 
 def main(input_file, output_file):
-    t1 = time.time()
     with open(input_file, "r") as f:
         content = f.read().split("\n")
     
@@ -25,8 +23,6 @@ def main(input_file, output_file):
 
     with open(output_file, "w", newline="") as f:
         f.write("\n".join(s.answers))
-    t2 = time.time()
-    print(t2 - t1)
 
 
 class Point:

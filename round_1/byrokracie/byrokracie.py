@@ -1,5 +1,5 @@
-def main():
-    with open("./round_1/byrokracie/input.txt", "r", encoding="utf-8") as input_file:
+def main(input_file, output_file):
+    with open(input_file, "r", encoding="utf-8") as input_file:
         content = input_file.read()
         content_list = content.split("\n")
         content_list = [line for line in content_list if line != ""]
@@ -21,7 +21,7 @@ def main():
             output.append("pujde to " + " ".join(ordered_permissions))
         i += rows + 1
     
-    with open("./round_1/byrokracie/output.txt", "w", encoding="utf-8") as output_file:
+    with open(output_file, "w", encoding="utf-8") as output_file:
         output_file.write("\n".join(output))
 
 
@@ -44,4 +44,5 @@ def dfs(ordered_permissions, dependecies, cur_perm, visited, cyclic=False):
     return ordered_permissions, cyclic
 
 if __name__ == "__main__":
-    main()
+    main("./round_1/byrokracie/io_example/input.txt",
+        "./round_1/byrokracie/output.txt")

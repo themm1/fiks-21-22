@@ -1,7 +1,7 @@
 from collections import defaultdict
 
-def main(filename, outputfile):
-    with open(filename, "r") as f:
+def main(input_file, output_file):
+    with open(input_file, "r") as f:
         content = f.read().split("\n")
     
     [nations_count, days_count] = [int(item) for item in content[0].split(" ")]
@@ -13,7 +13,7 @@ def main(filename, outputfile):
 
     g = Graph(edges, nations_count)
 
-    with open(outputfile, "w", newline="") as f:
+    with open(output_file, "w", newline="") as f:
         for i, question in enumerate(content[nations_count:]):
             nodes = [int(node) for node in question.split(" ")[1:]]
             initial_dist = sum([g.tree[node].height for node in nodes])

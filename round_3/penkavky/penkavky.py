@@ -11,8 +11,8 @@ class Main:
         "10": "G",
         "11": "T"
     }
-    def __init__(self, filename):
-        with open(filename, "rb") as f:
+    def __init__(self, input_file, output_file):
+        with open(input_file, "rb") as f:
             self.content = f.read()
 
         tasks_count, index = self.bytes_int(0)
@@ -36,7 +36,7 @@ class Main:
             # plt.show()
             # pprint(triplets)
 
-            with open("./round_3/penkavky/output.txt", "a", encoding="utf-8", newline="") as f:
+            with open(output_file, "a", encoding="utf-8", newline="") as f:
                 f.writelines("\n".join(output) + "\n")
 
     def bits_genomes(self, dna):
@@ -135,4 +135,4 @@ class LevenshteinDist:
         
 
 if __name__ == "__main__":
-    Main("./round_3/penkavky/input2.txt")
+    Main("./round_3/penkavky/io_example/input.txt", "./round_3/penkavky/output.txt")

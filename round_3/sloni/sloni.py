@@ -1,5 +1,19 @@
 from decimal import Decimal
 
+def main(input_file, output_file):
+    with open(input_file, "r") as f:
+        content = f.read().split("\n")
+
+    output = []
+    tasks_count = int(content[0])
+    for task in content[1:tasks_count+1]:
+        args = [int(arg) for arg in task.split(" ")]
+        result = get_fields_count(*args)
+        output.append(str(result))
+    
+    with open(output_file, "w", newline="") as f:
+        f.writelines("\n".join(output))
+
 def get_fields_count(x_size, y_size, x_coord, y_coord, layers_count):
     max_directions = [
         x_coord,                # max_left
@@ -32,20 +46,5 @@ def seq_formula(n):
     else:
         return m * (m + 1)
 
-def main(filename):
-    with open(filename, "r") as f:
-        content = f.read().split("\n")
-
-    output = []
-    tasks_count = int(content[0])
-    for task in content[1:tasks_count+1]:
-        args = [int(arg) for arg in task.split(" ")]
-        result = get_fields_count(*args)
-        print(result)
-        output.append(str(result))
-    
-    with open("./round_3/sloni/output.txt", "w", newline="") as f:
-        f.writelines("\n".join(output))
-
 if __name__ == "__main__":
-    main("./round_3/sloni/input.txt")
+    main("./round_3/sloni/io_example/input.txt", "./round_3/sloni/output.txt")

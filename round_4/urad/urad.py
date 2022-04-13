@@ -1,31 +1,34 @@
-def main(filepath):
-    with open(filepath, "r") as f:
+def main(input_file, output_file):
+    with open(input_file, "r") as f:
         content = f.read().split("\n")
 
     line_index = 1
-    with open(f"./round_4/urad/output.txt", "w", newline="") as f:
-        while line_index < len(content) - 1:
-            processes_count = int(content[line_index])
-            task = content[line_index:line_index+processes_count+1]
+    answers = []
+    while line_index < len(content) - 1:
+        processes_count = int(content[line_index])
+        task = content[line_index:line_index+processes_count+1]
 
-            s = Simulation(processes_count)
-            for i, process_line in enumerate(task[1:]):
-                process_line = [int(num) for num in process_line.split(" ")]
+        s = Simulation(processes_count)
+        for i, process_line in enumerate(task[1:]):
+            process_line = [int(num) for num in process_line.split(" ")]
 
-                [offset, instructions_count] = process_line[:2]
-                instructions = process_line[2:]
-                for j, instruction in enumerate(instructions):
-                    if (offset+j) % 256 != 0:
-                        s.memory[(offset+j) % 256] = instruction
+            [offset, instructions_count] = process_line[:2]
+            instructions = process_line[2:]
+            for j, instruction in enumerate(instructions):
+                if (offset+j) % 256 != 0:
+                    s.memory[(offset+j) % 256] = instruction
 
-                s.initialize_process(i, offset)
+            s.initialize_process(i, offset)
 
-            for _ in range(5000):
-                s.simulate()
-            line_index += processes_count + 1
+        for _ in range(5000):
+            s.simulate()
+        line_index += processes_count + 1
 
-            pc_sum = sum(process.pc for process in s.processes)
-            f.write(" ".join([str(s.memory[42]), str(pc_sum), "\n"]))
+        pc_sum = sum(process.pc for process in s.processes)
+        answers.append(f"{str(s.memory[42])} {str(pc_sum)}")
+
+    with open(output_file, "w", newline="") as f:
+        f.write("\n".join(answers))
 
 
 class Simulation:
@@ -259,4 +262,4 @@ class Process:
 
 
 if __name__ == "__main__":
-    main("./round_4/urad/input.txt")
+    main("./round_4/urad/io_example/input.txt", "./round_4/urad/output.txt")

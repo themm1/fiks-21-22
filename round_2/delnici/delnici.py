@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 from collections import defaultdict
 
 
-def main():
-    with open("./round_2/delnici/io_example/input.txt", "r", encoding="utf-8") as f:
+def main(input_file, output_file):
+    with open(input_file, "r", encoding="utf-8") as f:
         lines = f.read()
         content = lines.split("\n")
 
@@ -19,7 +19,7 @@ def main():
         output.extend(translation.output)
         current_row = task_end_row
 
-    with open("./round_2/delnici/output.txt", "w", encoding="utf-8", newline="") as f:
+    with open(output_file, "w", encoding="utf-8", newline="") as f:
         f.writelines("\n".join(output))
 
 
@@ -160,4 +160,4 @@ class Translators:
 
 
 if __name__ == "__main__":
-    main()
+    main("./round_2/delnici/io_example/input.txt", "./round_2/delnici/output.txt")
