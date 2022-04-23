@@ -1,0 +1,12 @@
+Protokol:
+- rotace ok
+- padding ok
+- chybí mi ID zprávy a timestamp (viz sekce útok)
+- padding by potenciálně byl účinnější, kdyby doplňoval na konec zprávy (nebo na oba konce), ne na začátek (hůř by se prováděl útok, viz sekce útok, poslední odrážka), ale v kombinaci s ostatním je i takhle super
+
+
+Útok:
+- typ zprávy super
+- replay super
+- chybí: možnost změny pořadí zpráv, ve kterém dorazí, a možnost umělého delaye, aniž by to někdo zjistil
+- navíc můžu flipnout poslední bity u zprávy, kterou detekuju jako POSLETE MI n, čímž změním číslo, ale zpráva bude pořád dávat smysl

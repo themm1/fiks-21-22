@@ -1,0 +1,11 @@
+Martin Madzin ==========================================================
+
+* algoritmus se zdá být v pořádku, ale je hodně je pomalý (lze udělat podstatně lépe)
+* algoritmus je moc pomalý pro veliké vstupy (N i M = 100)
+* chybí odůvodnit konečnost
+* popis a analýza mergesortu je nadbytečná
+* kód vypadá rozumně
+* implementace spadne pokud M > N
+* cpp má samozřejmě zabudovaný sort, proč se psát s merge sortem? (leda aby ses ho naučil :) )
+
+3b

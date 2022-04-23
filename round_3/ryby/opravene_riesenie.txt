@@ -1,0 +1,17 @@
+Madzin
+
+Algoritmus je správný. Analýza času je okay. Analýza paměti chybí. Správnost by měla odůvodnit proč nám stačilo projít pouze promítnuté body, a ne všechny možné hodnoty. Chybí odůvodnit konečnost algoritmu. Kód funguje.
+
+Lepší by bylo zaokrouhlovat cca na 9 až 12 desetinných míst. Úlohu lze řešit i bez desetinných čísel.
+
+---------------------------------------------
+Bodování
+* řeší algoritmus zadaný problém? 1.5/2b  ano (float)
+* popis algoritmu                   2/2b
+* zdůvodnění správnosti             1/2b
+* analýza časové složitosti         1/1b
+* analýza prostorové složitosti     0/1b
+* kód algoritmu                     2/2b
+--                              ---------
+  celkem                          7.5b
+---------------------------------------------
