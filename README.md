@@ -11,6 +11,8 @@ FIKS is a programming competition focused on algorithms organized by [FIT CVUT](
 
 [https://fiks.fit.cvut.cz](https://fiks.fit.cvut.cz)
 
+I finished on shared 2nd place with 134.5/150 points: https://fiks.fit.cvut.cz/vysledky/rocnik-8/kolo-5
+
 
 
 <table>
