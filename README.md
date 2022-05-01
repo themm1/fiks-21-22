@@ -86,7 +86,7 @@ FIKS is a programming competition focused on algorithms organized by [FIT CVUT](
         <tr>
             <td> <a href=https://github.com/themm1/FIKS/tree/master/round_4/sifrovani>Sifrovani</td>
             <td>Description only</td>
-            <td>?</td>
+            <td>8</td>
         </tr>
         <tr>
             <td> <a href=https://github.com/themm1/FIKS/tree/master/round_4/urad>Urad</td>
@@ -99,7 +99,7 @@ FIKS is a programming competition focused on algorithms organized by [FIT CVUT](
             <td rowspan=3> <a href=https://github.com/themm1/FIKS/tree/master/round_5>Round 5</td>
             <td> <a href=https://github.com/themm1/FIKS/tree/master/round_5/kamery>Kamery</td>
             <td>Description only</td>
-            <td>?</td>
+            <td>7</td>
         </tr>
         <tr>
             <td> <a href=https://github.com/themm1/FIKS/tree/master/round_5/prochazka>Prochazka</td>
