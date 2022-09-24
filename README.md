@@ -24,90 +24,90 @@ I finished on shared 2nd place with 134.5/150 points: https://fiks.fit.cvut.cz/v
     </thead>
     <tbody>
         <tr>
-            <td rowspan=3> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round1>Round 1</td>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round1/pozemky>Pozemky</td>
+            <td rowspan=3>Round 1</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/1pozemky>Pozemky</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round1/byrokracie>Byrokracie</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/1byrokracie>Byrokracie</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round1/sponzori>Sponzori</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/1sponzori>Sponzori</td>
             <td>Code & Description</td>
             <td>3</td>
         </tr>
     </tbody>
     <tbody>
         <tr>
-            <td rowspan=3> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round2>Round 2</td>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round2/delnici>Delnici</td>
+            <td rowspan=3>Round 2</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/2delnici>Delnici</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round2/prohlidkove_okruhy>Prohlidkove okruhy</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/2prohlidkove_okruhy>Prohlidkove okruhy</td>
             <td>Code & Description</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round2/klece>Klece</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/2klece>Klece</td>
             <td>Description only</td>
             <td>9</td>
         </tr>
     </tbody>
     <tbody>
         <tr>
-            <td rowspan=3> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round3>Round 3</td>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round3/penkavky>Penkavky</td>
+            <td rowspan=3>Round 3</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/3penkavky>Penkavky</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round3/sloni>Sloni</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/3sloni>Sloni</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round3/ryby>Ryby</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/3ryby>Ryby</td>
             <td>Code & Description</td>
             <td>7.5</td>
         </tr>
     </tbody>
     <tbody>
         <tr>
-            <td rowspan=3> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round4>Round 4</td>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round4/krmeni>Krmeni</td>
+            <td rowspan=3>Round 4</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/4krmeni>Krmeni</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round4/sifrovani>Sifrovani</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/4sifrovani>Sifrovani</td>
             <td>Description only</td>
             <td>8</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round4/urad>Urad</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/4urad>Urad</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
     </tbody>
     <tbody>
         <tr>
-            <td rowspan=3> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round5>Round 5</td>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round5/kamery>Kamery</td>
+            <td rowspan=3>Round 5</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/5kamery>Kamery</td>
             <td>Description only</td>
             <td>7</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round5/prochazka>Prochazka</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/5prochazka>Prochazka</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/round5/vchod>Vchod</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/5vchod>Vchod</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
