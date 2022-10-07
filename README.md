@@ -1,4 +1,4 @@
-# FIKS
+# FIKS 2022-23
 FIKS is a programming competition focused on algorithms organized by [FIT CVUT](https://fit.cvut.cz). The best contestants (over 75 points) are guaranteed to be accepted to ČVUT FIT without having to do entry exams.
 
 There are 3 different tasks types:
@@ -8,10 +8,7 @@ There are 3 different tasks types:
 
 [https://fiks.fit.cvut.cz](https://fiks.fit.cvut.cz)
 
-### 2021-22
 I finished on shared 2nd place with 134.5/150 points: https://fiks.fit.cvut.cz/vysledky/rocnik-8/kolo-5
-
-
 
 <table>
     <thead>
@@ -25,17 +22,17 @@ I finished on shared 2nd place with 134.5/150 points: https://fiks.fit.cvut.cz/v
     <tbody>
         <tr>
             <td rowspan=3>Round 1</td>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/1pozemky>Pozemky</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/1pozemky>Pozemky</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/1byrokracie>Byrokracie</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/1byrokracie>Byrokracie</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/1sponzori>Sponzori</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/1sponzori>Sponzori</td>
             <td>Code & Description</td>
             <td>3</td>
         </tr>
@@ -43,17 +40,17 @@ I finished on shared 2nd place with 134.5/150 points: https://fiks.fit.cvut.cz/v
     <tbody>
         <tr>
             <td rowspan=3>Round 2</td>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/2delnici>Delnici</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2delnici>Delnici</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/2prohlidkove_okruhy>Prohlidkove okruhy</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2prohlidkove_okruhy>Prohlidkove okruhy</td>
             <td>Code & Description</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/2klece>Klece</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/2klece>Klece</td>
             <td>Description only</td>
             <td>9</td>
         </tr>
@@ -61,17 +58,17 @@ I finished on shared 2nd place with 134.5/150 points: https://fiks.fit.cvut.cz/v
     <tbody>
         <tr>
             <td rowspan=3>Round 3</td>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/3penkavky>Penkavky</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/3penkavky>Penkavky</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/3sloni>Sloni</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/3sloni>Sloni</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/3ryby>Ryby</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/3ryby>Ryby</td>
             <td>Code & Description</td>
             <td>7.5</td>
         </tr>
@@ -79,17 +76,17 @@ I finished on shared 2nd place with 134.5/150 points: https://fiks.fit.cvut.cz/v
     <tbody>
         <tr>
             <td rowspan=3>Round 4</td>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/4krmeni>Krmeni</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/4krmeni>Krmeni</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/4sifrovani>Sifrovani</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/4sifrovani>Sifrovani</td>
             <td>Description only</td>
             <td>8</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/4urad>Urad</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/4urad>Urad</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
@@ -97,17 +94,17 @@ I finished on shared 2nd place with 134.5/150 points: https://fiks.fit.cvut.cz/v
     <tbody>
         <tr>
             <td rowspan=3>Round 5</td>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/5kamery>Kamery</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/5kamery>Kamery</td>
             <td>Description only</td>
             <td>7</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/5prochazka>Prochazka</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/5prochazka>Prochazka</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
         <tr>
-            <td> <a href=https://github.com/themm1/FIKS/tree/master/2021-22/5vchod>Vchod</td>
+            <td> <a href=https://github.com/themm1/FIKS/tree/master/5vchod>Vchod</td>
             <td>Output only</td>
             <td>10</td>
         </tr>
